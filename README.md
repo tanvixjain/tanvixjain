@@ -1,21 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Tanvi+Jain;Data+%7C+ML+%7C+AI+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Tanvi+Jain;Data+%7C+ML+%7C+AI" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### 👩‍💻 About Me
+### hey, I'm Tanvi 👋
 
-I'm a **B.Tech Computer Science Engineering** student at **SRM Institute of Science and Technology**, with a deep interest in Data Science, Machine Learning, and AI.
+4th year CS student at SRM. Curious by nature — I can't leave a problem alone until I understand it.
 
-I'm a curious person by nature — always wanting to learn, grow, and build things that are actually useful. I care about creating projects that solve real problems, not just writing code for the sake of it.
+I got into ML and AI because I like the idea that you can teach a machine to find patterns humans would miss. I care less about the tech stack and more about whether what I'm building actually solves something real.
 
-- 🔭 Currently building projects in **ML, NLP, and Data Analytics**
-- 🌱 Exploring **multimodal AI** and **speech-text fusion models**
-- 💡 Passionate about turning data into meaningful insights
-- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/tanvi-jain-tj180105)**
+📫 jaintanvi1801@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/tanvi-jain-tj180105)
 
 ---
 
@@ -36,12 +33,12 @@ I'm a curious person by nature — always wanting to learn, grow, and build thin
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| [📊 Job Market Intelligence Dashboard](https://github.com/tanvixjain/job-market-dashboard) | Scrapes 300+ live job postings, extracts skills with NLP, visualises demand trends | Python, spaCy, Streamlit, Plotly |
-| 🧠 Mental Health Risk Detection | Detects mental health risk from speech + text using multimodal AI fusion | Python, NLP, Audio Processing |
+| [📊 Job Market Intelligence Dashboard](https://github.com/tanvixjain/job-market-dashboard) | Scrapes 300+ live job postings, extracts skills with NLP, visualises demand trends | Python · spaCy · Streamlit · Plotly |
+| 🧠 Mental Health Risk Detection | Detects mental health risk from speech + text using multimodal AI | Python · NLP · Audio ML |
 
 ---
 
@@ -58,7 +55,5 @@ I'm a curious person by nature — always wanting to learn, grow, and build thin
 ---
 
 <div align="center">
-
-*"Build things that matter."*
-
+<i>I don't just want to write code — I want to build things that matter.</i>
 </div>
