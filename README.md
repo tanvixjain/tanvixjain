@@ -1,12 +1,9 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Tanvi+Jain;CS+Student+%7C+Builder+%7C+Problem+Solver" alt="Typing SVG" />
-
-</div>
+# Hi 👋 I'm Tanvi Jain
+### CS Student · Builder · Problem Solver
 
 ---
 
-Hey! I'm Tanvi- a final year Computer Science student who loves turning ideas into working solutions. My interests span coding and algorithms to data, consulting, and strategy. I work on projects that actually challenge me, and I'm always looking to collaborate with people who push me to grow.
+Hey! I'm Tanvi — a final year Computer Science student who loves turning ideas into working solutions. My interests span coding and algorithms to data, consulting, and strategy. I work on projects that actually challenge me, and I'm always looking to collaborate with people who push me to grow.
 
 📫 jaintanvi1801@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/tanvi-jain-tj180105)
 
