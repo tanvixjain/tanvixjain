@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Tanvi+Jain;Data+%7C+ML+%7C+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Tanvi+Jain;CS+Student+%7C+Builder+%7C+Problem+Solver" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### hey, I'm Tanvi 👋
-
-4th year CS student at SRM. Curious by nature — I can't leave a problem alone until I understand it.
-
-I got into ML and AI because I like the idea that you can teach a machine to find patterns humans would miss. I care less about the tech stack and more about whether what I'm building actually solves something real.
+Hey! I'm Tanvi — a final year Computer Science student who loves turning ideas into working solutions. My interests span coding and algorithms to data, consulting, and strategy. I work on projects that actually challenge me, and I'm always looking to collaborate with people who push me to grow.
 
 📫 jaintanvi1801@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/tanvi-jain-tj180105)
 
@@ -33,15 +29,6 @@ I got into ML and AI because I like the idea that you can teach a machine to fin
 
 ---
 
-### 🚀 Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [📊 Job Market Intelligence Dashboard](https://github.com/tanvixjain/job-market-dashboard) | Scrapes 300+ live job postings, extracts skills with NLP, visualises demand trends | Python · spaCy · Streamlit · Plotly |
-| 🧠 Mental Health Risk Detection | Detects mental health risk from speech + text using multimodal AI | Python · NLP · Audio ML |
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -50,10 +37,4 @@ I got into ML and AI because I like the idea that you can teach a machine to fin
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvixjain&layout=compact&theme=transparent&title_color=00D4FF&text_color=ffffff&border_color=30363d)
 
-</div>
-
----
-
-<div align="center">
-<i>I don't just want to write code — I want to build things that matter.</i>
 </div>
