@@ -6,7 +6,7 @@
 
 ---
 
-Hey! I'm Tanvi — a final year Computer Science student who loves turning ideas into working solutions. My interests span coding and algorithms to data, consulting, and strategy. I work on projects that actually challenge me, and I'm always looking to collaborate with people who push me to grow.
+Hey! I'm Tanvi- a final year Computer Science student who loves turning ideas into working solutions. My interests span coding and algorithms to data, consulting, and strategy. I work on projects that actually challenge me, and I'm always looking to collaborate with people who push me to grow.
 
 📫 jaintanvi1801@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/tanvi-jain-tj180105)
 
@@ -24,17 +24,5 @@ Hey! I'm Tanvi — a final year Computer Science student who loves turning ideas
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00D4FF)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=00D4FF)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00D4FF)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Tanvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvixjain&show_icons=true&theme=transparent&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&border_color=30363d)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvixjain&layout=compact&theme=transparent&title_color=00D4FF&text_color=ffffff&border_color=30363d)
 
 </div>
